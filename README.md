@@ -1,6 +1,6 @@
 # Sush's Portfolio
 
-* [Click here to check it out.](https://chrisducharme1793.github.io/homework-07-updated-portfolio-page/)
+* [Click here to check it out.](https://sush-tech.github.io/Updated_Portfolio/)
 
 ## Hello!
 
