@@ -1,10 +1,10 @@
-# Chris Ducharme's Portfolio
+# Sush's Portfolio
 
 * [Click here to check it out.](https://chrisducharme1793.github.io/homework-07-updated-portfolio-page/)
 
 ## Hello!
 
-This is Chris Ducharme's Updated.
+This is Sushmitha Reddy yadamakanti's Updated.
 
 ## Built With
 
@@ -14,6 +14,3 @@ This is Chris Ducharme's Updated.
  
 ## Email Form Doesn't work because i'm not sure how to set it up yet
 
-## Contributing
-
-Thanks to Dustin, David, and Jeremy for teaching and guiding us through this bootcamp! 
